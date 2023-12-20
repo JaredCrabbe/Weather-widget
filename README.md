@@ -13,3 +13,5 @@ the information will be displayed on the nice blue card.
 - HTML
 - CSS
 - Javascript
+
+<img src="./Untitled video - Made with Clipchamp.gif">
